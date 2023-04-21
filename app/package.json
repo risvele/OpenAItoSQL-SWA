@@ -41,5 +41,8 @@
   },
   "devDependencies": {
     "typescript": "^5.0.4"
+  },
+  "overrides": {
+    "typescript": "^5.0.4"
   }
 }
